@@ -1,3 +1,3 @@
-<?php>
-  print("helloWorld")
+<?php
+  print("helloWorld");
 ?>
